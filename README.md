@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-<p>📕 estudante de sistemas de informação 1/8 </p>
+<p>📕 estudante de sistemas de informação 1/8 - cefet </p>
 </div>
 
 ---
