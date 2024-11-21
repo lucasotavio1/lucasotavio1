@@ -11,5 +11,5 @@
 
 <div align="center">
   <a href="https://github.com/lucasotavio1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasotavio1&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=ffffff&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasotavio1&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=ffffff&hide_border=true"/>
 </div>
