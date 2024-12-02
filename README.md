@@ -13,9 +13,3 @@
   <a href="https://github.com/lucasotavio1">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasotavio1&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=ffffff&hide_border=true"/>
 </div>
-    
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=lucasotavio1&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-</div>
