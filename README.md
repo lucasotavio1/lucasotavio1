@@ -13,3 +13,10 @@
   <a href="https://github.com/lucasotavio1">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasotavio1&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=ffffff&hide_border=true"/>
 </div>
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="lucas-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="lucas-cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="lucas-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="lucas-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+</div>
